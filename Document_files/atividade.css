@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width:200%  ;
+    height:100px;
+    background-color: rgb(32, 32, 117);
+   text-align: center 0 ;
+}
+nav{
+    width:200%  ;
+    height:100px;
+    background-color: rgb(73, 97, 128);
+    text-align:center 0 ;
+}
